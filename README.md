@@ -21,10 +21,10 @@ Example Output:
 
 Pwney has got 4 options for you to choose. If you choose an option password will be generated based on only the options you specified. If non is given, Pwney will create his passwords as all options are enabled.
 
--u/--upper = Enable Uppercase
--l/--lower = Enable Lowercase
--s/--special = Enable Special Characters
--n/--numbers = Enable Numbers
+     -u/--upper = Enable Uppercase
+     -l/--lower = Enable Lowercase
+     -s/--special = Enable Special Characters
+     -n/--numbers = Enable Numbers
 
 And yea, this is Pwney. Just like I said "extremely basic". I believe Pwney will improve himself overtime by the helps of his family(which is you guys) and the person who found him stranded in the forest!
 
