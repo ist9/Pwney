@@ -14,11 +14,14 @@ Usage:
 python pwney.py -f/--filename file_name -a/--amount pwd_amount -p/--pwdlength pwd_length
 
 Example Usage:
-python pwney.py -f mywordlist -a 2 -p 5
+
+       python pwney.py -f mywordlist -a 2 -p 5
 
 Example Output:
 
-
+       k\K$W
+       *g^|_
+       
 Pwney has got 4 options for you to choose. If you choose an option password will be generated based on only the options you specified. If non is given, Pwney will create his passwords as all options are enabled.
 
      -u/--upper = Enable Uppercase
