@@ -97,7 +97,7 @@ def create_wordlist():
          password = ''.join(random.choice(char_pool) for _ in range(args.pwdlength))
          pwd_pool.append(password)
 
-        print("{args.amount} password generated!")
+        print(f"{args.amount} password generated!")
 
     except:
 
